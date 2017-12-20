@@ -89,6 +89,9 @@ if (refresh_button) {
   })  
 }
 
-copy_button.addEventListener('click', function() {
-  copyQuote();
-})
+if (copy_button) {
+  copy_button.addEventListener('click', function() {
+    copyQuote();
+  })  
+}
+
