@@ -50,9 +50,6 @@ var pp = document.querySelector('.pinyin-pronunciation');
 var ci = document.querySelector('.chengyu-idiom');
 var jm = document.querySelector('.jieshi-meaning');
 
-var refresh_button = document.querySelector('#refresh');
-var copy_button = document.querySelector('#content-copy');
-
 function fillInContainer() {
   var quote = getRandomQuote();
   pp.innerHTML = quote["pp"];
@@ -82,6 +79,9 @@ function copyQuote() {
 //   document.execCommand("copy");
   alert("Text copied!");
 }
+
+var refresh_button = document.querySelector('#refresh');
+var copy_button = document.querySelector('#content-copy');
 
 if (refresh_button) {
   refresh_button.addEventListener('click', function() {
