@@ -83,9 +83,12 @@ function copyQuote() {
   alert("Text copied!");
 }
 
-refresh_button.addEventListener('click', function() {
-  fillInContainer();
-})
+if (refresh_button) {
+  refresh_button.addEventListener('click', function() {
+    fillInContainer();
+  })  
+}
+
 copy_button.addEventListener('click', function() {
   copyQuote();
 })
