@@ -37,6 +37,12 @@ var chengyu_idioms = [
 { pp: "Yī yán jìchū, sìmǎ nán zhuī", ci: "一言既出，驷马难追", jm: "A real man never goes back on his words." },
 { pp: "Zhǐshàngtánbīng", ci: "纸上谈兵", jm: "be an armchair strategist" },
 { pp: "Zhǐ bāo bù zhù huǒ", ci: "纸包不住火", jm: "Truth will come to light sooner or later." },
+{ pp: "Wúwéi ér zhì", ci: "无为而治", jm: "Inaction as an action of resolutino." },
+{ pp: "jǐnpò gǎn", ci: "紧迫感", jm: "A sense of urgency." },
+{ pp: "shěnshíduóshì", ci: "审时度势", jm: "Evaluate the situation." },
+{ pp: "rén nuó huó, shù nuó sǐ", ci: "人挪活，树挪死", jm: "Man lives in motion, trees die in motion." },
+{ pp: "jiéyīsuōshí", ci: "节衣缩食", jm: "To be frugal; saving money on clothes and food" },
+{ pp: "fā xiǎo", ci: "发小", jm: "Since one's childhood, literally, since one's hair was small." },
 { jm: "Heaven rewards the diligent. (idiom)", ci: "天道酬勤", pp: "Tiāndào chóu qín"},
 { jm: "lit. the iron tree blooms (idiom), a highly improbable or extremely rare occurrence", ci: "铁树开花", pp: "tiě shù kāi huā"}
 ]
