@@ -37,13 +37,20 @@ var chengyu_idioms = [
 { pp: "Yī yán jìchū, sìmǎ nán zhuī", ci: "一言既出，驷马难追", jm: "A real man never goes back on his words." },
 { pp: "Zhǐshàngtánbīng", ci: "纸上谈兵", jm: "be an armchair strategist" },
 { pp: "Zhǐ bāo bù zhù huǒ", ci: "纸包不住火", jm: "Truth will come to light sooner or later." },
-{ pp: "Wúwéi ér zhì", ci: "无为而治", jm: "Inaction as an action of resolutino." },
+{ pp: "Wúwéi ér zhì", ci: "无为而治", jm: "Inaction as an action of resolution." },
 { pp: "jǐnpò gǎn", ci: "紧迫感", jm: "A sense of urgency." },
 { pp: "shěnshíduóshì", ci: "审时度势", jm: "Evaluate the situation." },
 { pp: "rén nuó huó, shù nuó sǐ", ci: "人挪活，树挪死", jm: "Man lives in motion, trees die in motion." },
 { pp: "jiéyīsuōshí", ci: "节衣缩食", jm: "To be frugal; saving money on clothes and food" },
 { pp: "fā xiǎo", ci: "发小", jm: "Since one's childhood, literally, since one's hair was small." },
-{ jm: "Heaven rewards the diligent. (idiom)", ci: "天道酬勤", pp: "Tiāndào chóu qín"},
+{ jm: "BETA | Heaven rewards the diligent. (idiom)", ci: "天道酬勤, 投桃报李", pp: "Tiāndào chóu qín, tóutáobàolǐ"},
+{ jm: "BETA | With bitter comes the sweet, success will be swift.", ci: "苦尽甘来、马到成功", pp: "Tiāndào chóu qín, tóutáobàolǐ"},
+{ jm: "BETA | Dedication and faith will move mountains to open", ci: "精诚所至金石为开", pp: "Jīngchéng suǒ zhì jīnshí wéi kāi"},
+{ jm: "Whoever is pitiful must have a cause to be despised.", ci: "可怜之人必有可恶之处", pp: "Kělián zhī rén bì yǒu kěwù zhī chù"},
+{ jm: "BETA | Whatever you can think you can do;", ci: "心想事成、事半功倍", pp: "Tiāndào chóu qín, tóutáobàolǐ"},
+{ jm: "BETA | Work will be rewarded, achieve maximum results with little effort", ci: "劳有所获，事半功倍", pp: "Láo yǒu suǒ huò"},
+{ jm: "BETA | Diligence can mend dullness， ???", ci: "勤能补拙, 否极泰来", pp: "qínnéngbǔzhuō， pǐjítàilái"},
+{ jm: "BETA | The more you work, the more you earn; familiarity can breed talent.", ci: "多劳多得熟能生巧", pp: "duō láo duō dé shúnéngshēngqiǎo"},
 { jm: "lit. the iron tree blooms (idiom), a highly improbable or extremely rare occurrence", ci: "铁树开花", pp: "tiě shù kāi huā"}
 ]
 
