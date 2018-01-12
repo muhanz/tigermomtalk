@@ -2,4 +2,4 @@
 Chengyu-idiom of the day
 
 # live
-muhanz.github.io/tigermomtalk/
+[Click here to see it live.](https://muhanz.github.io/tigermomtalk/)
