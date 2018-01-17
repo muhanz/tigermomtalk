@@ -52,6 +52,11 @@ var chengyu_idioms = [
 { jm: "BETA | Diligence can mend dullness， ???", ci: "勤能补拙, 否极泰来", pp: "qínnéngbǔzhuō， pǐjítàilái"},
 { jm: "BETA | The more you work, the more you earn; familiarity can breed talent.", ci: "多劳多得熟能生巧", pp: "duō láo duō dé shúnéngshēngqiǎo"},
 { jm: "lit. the iron tree blooms (idiom), a highly improbable or extremely rare occurrence", ci: "铁树开花", pp: "tiě shù kāi huā"}
+{ pp: "Yuàn dǔ fúshū", ci: "愿赌服输", jm: "So willing to bet that one would bet the clothes one wears" },
+{ pp: "Diào'erlángdāng", ci: "吊儿郎当", jm: "To have a lighthearted attitude, as if like laughing children" },
+{ pp: "Jǔshǒuzhīláo", ci: "举手之劳", jm: "Easy pickings." },
+  { pp: "Yì gāo dǎn dà", ci: "艺高胆大", jm: "Literally: when one's craft is strong, one gains courage. Hence the double meaning: 1) to encourage one to work hard, the other to be brave when taking risks, assuming one has done the consummate work before a trial." },
+{ pp: "Shúnéngshēngqiǎo", ci: "熟能生巧", jm: "Practice makes perfect" }
 ]
 
 function getRandomQuote() {
