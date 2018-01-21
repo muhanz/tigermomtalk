@@ -56,6 +56,9 @@ var chengyu_idioms = [
 { pp: "Diào'erlángdāng", ci: "吊儿郎当", jm: "To have a lighthearted attitude, as if like laughing children" },
 { pp: "Jǔshǒuzhīláo", ci: "举手之劳", jm: "Easy pickings." },
 { pp: "Yì gāo dǎn dà", ci: "艺高胆大", jm: "Literally: when one's craft is strong, one gains courage. Hence the double meaning: 1) to encourage one to work hard, the other to be brave when taking risks, assuming one has done the consummate work before a trial." },
+  { pp: "Jiàqīngjiùshú", ci: "驾轻就熟", jm: "The more you do something the more familiar you are with it" },
+  { pp: "shuō ér gēnjù", ci: "说而根据", jm: "To say things that are evidence-backed." },
+  { pp: "shānjiāng yì gǎi běnxìng nán yí", ci: "山江易改本性难移", jm: "Mountains and rivers are easy to move, compared to changing one's personality." },  
 { pp: "Shúnéngshēngqiǎo", ci: "熟能生巧", jm: "Practice makes perfect"}
 ]
 
