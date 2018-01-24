@@ -59,7 +59,8 @@ var chengyu_idioms = [
   { pp: "Jiàqīngjiùshú", ci: "驾轻就熟", jm: "The more you do something the more familiar you are with it" },
   { pp: "shuō ér gēnjù", ci: "说而根据", jm: "To say things that are evidence-backed." },
   { pp: "shānjiāng yì gǎi běnxìng nán yí", ci: "山江易改本性难移", jm: "Mountains and rivers are easy to move, compared to changing one's personality." },  
-{ pp: "Shúnéngshēngqiǎo", ci: "熟能生巧", jm: "Practice makes perfect"}
+  { pp: "Zhìfù guāngróng", ci: "致富光荣", jm: "TO BE RICH IS TO BE GLORIOUS." },  
+  { pp: "Shúnéngshēngqiǎo", ci: "熟能生巧", jm: "Practice makes perfect"}
 ]
 
 function getRandomQuote() {
