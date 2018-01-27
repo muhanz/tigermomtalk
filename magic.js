@@ -60,6 +60,7 @@ var chengyu_idioms = [
   { pp: "shuō ér gēnjù", ci: "说而根据", jm: "To say things that are evidence-backed." },
   { pp: "shānjiāng yì gǎi běnxìng nán yí", ci: "山江易改本性难移", jm: "Mountains and rivers are easy to move, compared to changing one's personality." },  
   { pp: "Zhìfù guāngróng", ci: "致富光荣", jm: "TO BE RICH IS TO BE GLORIOUS." },  
+  { pp: "Yántīngjìcóng", ci: "言听计从", jm: "To take one's word as law and divine edict." },  
   { pp: "Shúnéngshēngqiǎo", ci: "熟能生巧", jm: "Practice makes perfect"}
 ]
 
