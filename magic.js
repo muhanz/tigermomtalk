@@ -65,6 +65,7 @@ var chengyu_idioms = [
   { pp: "Shìshí shèng yú xióngbiàn", ci: "事实胜于雄辩", jm: "Action trumps debate." },  
   { pp: "shí niǎo zài lín bùrú yī niǎo zài shǒu", ci: "十鸟在林不如一鸟在手", jm: "A dozen partridges in the woods is worth less than one in hand." },  
   { pp: "xíng bǎi lǐ zhě bàn jiǔshí", ci: "行百里者半九十", jm: "What you got you here won't get you there." }, 
+  { pp: "qiǎng cí duó lǐ", ci: "强词夺理", jm: "Senseless rhetoric from a demogogue." }, 
   { pp: "Shúnéngshēngqiǎo", ci: "熟能生巧", jm: "Practice makes perfect"}
 ]
 
