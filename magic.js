@@ -66,6 +66,18 @@ var chengyu_idioms = [
   { pp: "shí niǎo zài lín bùrú yī niǎo zài shǒu", ci: "十鸟在林不如一鸟在手", jm: "A dozen partridges in the woods is worth less than one in hand." },  
   { pp: "xíng bǎi lǐ zhě bàn jiǔshí", ci: "行百里者半九十", jm: "What you got you here won't get you there." }, 
   { pp: "qiǎng cí duó lǐ", ci: "强词夺理", jm: "Senseless rhetoric from a demogogue." }, 
+  { pp: "Chūbù yànzhèng", ci: "初步验证", jm: "Preliminary verification." },  
+  { pp: "Huà hǔ bùchéng fǎn lèi quǎn", ci: "画虎不成反类犬", jm: "To fail in drawing a tiger, so to try and pivot mid-stroke to a dog. To fail at A and B." },  
+  { pp: "shùnshì ér dòng", ci: "顺势而动", jm: "To follow the trend." }, 
+  { pp: "Shéi zhuànqián shéi yīngxióng, shéi méi qián shéi gǒuxióng", ci: "谁赚钱谁英雄，谁没钱谁狗熊", jm: "Whoever makes money is the hero, whoever doesn't is the bear/loser" }, 
+  { pp: "Xíngshì bǐ rén qiáng", ci: "形势比人强", jm: "Environment is stronger than the individual." },  
+  { pp: "Pǔbiàn sā wǎng, zhòngdiǎn bǔlāo", ci: "普遍撒网，重点捕捞", jm: "Throw out the nets frequently, catching fish at the critical moment" },  
+  { pp: "yuèzǔdàipáo", ci: "越俎代庖", jm: "Taking on responsibilities that is noe one's responsibilities e.g. micromanaging." }, 
+  { pp: "Bēigōngshéyǐng", ci: "杯弓蛇影", jm: "Extremely suspicious/paranoid, literally, to see snakes in the cup from the shadow of a bow on the wall." }, 
+  { pp: "Shěběnzhúmò", ci: "舍本逐末", jm: "Penny wise, pound foolish." },  
+  { pp: "Yīn xiǎo shī dà débùchángshī", ci: "因小失大得不偿失", jm: "Because one believes small losses are large, so one cannot win anything/loses one's compensation" },  
+  { pp: "Mǎi dú huán zhū", ci: "买椟还珠", jm: "To buy a treasure chest but give back the pearl/missing the big picture" }, 
+  { pp: "Jiǎnle zhīma, diūle xīguā", ci: "捡了芝麻，丢了西瓜", jm: "Foraging for sesame seeds, lost the watermelon; Penny wise, pound foolish." }, 
   { pp: "Shúnéngshēngqiǎo", ci: "熟能生巧", jm: "Practice makes perfect"}
 ]
 
