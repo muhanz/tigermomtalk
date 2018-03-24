@@ -4,6 +4,8 @@ var chengyu_idioms = [
   { pp: "Àiwūjíwū", ci: "爱屋及乌", jm: "Love me, love my dog." },
   { pp: "Bǎi wén bùrú yī jiàn", ci: "百闻不如一见", jm: "Seeing is believing." },
   { pp: "Bènniǎoxiānfēi", ci: "笨鸟先飞", jm: "A slow sparrow should make an early start." },
+  { pp: "Bù shí rénjiān yānhuǒ", ci: "不食人间烟火", jm: 'Impractical. Literally: "does not eat human food". The opposite is 很食人间烟火，食 is being used as a verb.' },
+  { pp: "Luòtuó xiángzi", ci: "骆驼祥子", jm: "？？？" },
   { pp: "Bù yǐ wù xǐ, bù yǐ jǐ bēi", ci: "不以物喜，不以己悲", jm: "not pleased by external gains, not saddened bypersonnal losses" },
   { pp: "Bù dǎ bùchéng jiāo", ci: "不打不成交", jm: "No discord, no concord." },
   { pp: "Chāi dōng qiáng bǔ xī qiáng", ci: "拆东墙补西墙", jm: "rob Peter to pay Paul" },
