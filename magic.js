@@ -5,6 +5,7 @@ var chengyu_idioms = [
   { pp: "Bǎi wén bùrú yī jiàn", ci: "百闻不如一见", jm: "Seeing is believing." },
   { pp: "Bènniǎoxiānfēi", ci: "笨鸟先飞", jm: "A slow sparrow should make an early start." },
   { pp: "Bù shí rénjiān yānhuǒ", ci: "不食人间烟火", jm: 'Impractical. Literally: "does not eat human food". The opposite is 很食人间烟火，食 is being used as a verb.' },
+  { pp: "Shìtàiyánliáng", ci: "世态炎凉", jm: 'The warmth, cold, and change of the world.' },
   { pp: "Luòtuó xiángzi", ci: "骆驼祥子", jm: "？？？" },
   { pp: "Bù yǐ wù xǐ, bù yǐ jǐ bēi", ci: "不以物喜，不以己悲", jm: "not pleased by external gains, not saddened bypersonnal losses" },
   { pp: "Bù dǎ bùchéng jiāo", ci: "不打不成交", jm: "No discord, no concord." },
