@@ -1,6 +1,7 @@
 //http://www.sohu.com/a/33089622_115782
 
 var chengyu_idioms = [
+  { pp: "Jī shǎo chéng duō", ci: "积少成多", jm: "Many a little makes a mickle, small things accumulate fast." },
   { pp: "Àiwūjíwū", ci: "爱屋及乌", jm: "Love me, love my dog." },
   { pp: "Bǎi wén bùrú yī jiàn", ci: "百闻不如一见", jm: "Seeing is believing." },
   { pp: "Bènniǎoxiānfēi", ci: "笨鸟先飞", jm: "A slow sparrow should make an early start." },
