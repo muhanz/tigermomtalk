@@ -3,6 +3,8 @@
 var chengyu_idioms = [
   { pp: "Jī shǎo chéng duō", ci: "积少成多", jm: "Many a little makes a mickle, small things accumulate fast." },
   { pp: "Shàng liáng bùzhèng xià liáng wāi", ci: "上梁不正下梁歪", jm: "Like ancestors like descendants." },  
+  { pp: "Jiànjiē", ci: "间接", jm: "Indirect." },  
+  { pp: "Quánshì", ci: "诠释", jm: "Interpretation/embodiment." },  
   { pp: "Àiwūjíwū", ci: "爱屋及乌", jm: "Love me, love my dog." },
   { pp: "Bǎi wén bùrú yī jiàn", ci: "百闻不如一见", jm: "Seeing is believing." },
   { pp: "Bènniǎoxiānfēi", ci: "笨鸟先飞", jm: "A slow sparrow should make an early start." },
